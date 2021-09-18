@@ -1,0 +1,12 @@
+philip:left gf:center bf:right
+:1:talk:0.05:normal:So, the reason Angela called us is to deal \nwith the reverberation orchestra with a song?
+:1:talk:0.05:normal:Seriously?
+:2:talk:0.05:normal:Beep!
+:0:talk:0.05:normal:....
+:0:talk:0.05:normal:Hello, I'm Philip.
+:2:talk:0.05:normal:Beep beep.
+:0:talk:0.05:normal:Angela sent you out against me. \nYou can't speak?
+:2:talk:0.05:normal:Beep?
+:0:talk:0.05:normal:I came here to sing. \nThe same goes for my colleagues.
+:0:talk:0.05:normal:Then, I will start without saying much.
+:2:talk:0.05:normal:Beep!

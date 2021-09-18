@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DISNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="2" y="2" width="157" height="154"/>
+	<SubTexture name="blue hold end0000" x="169" y="2" width="50" height="64"/>
+	<SubTexture name="blue hold piece0000" x="229" y="2" width="50" height="44"/>
+	<SubTexture name="green0000" x="289" y="2" width="157" height="154"/>
+	<SubTexture name="green hold end0000" x="456" y="2" width="50" height="64"/>
+	<SubTexture name="green hold piece0000" x="516" y="2" width="50" height="44"/>
+	<SubTexture name="purple0000" x="576" y="2" width="160" height="227" frameX="-9" frameY="-10" frameWidth="183" frameHeight="238"/>
+	<SubTexture name="purple0001" x="746" y="2" width="182" height="237" frameX="-1" frameY="0" frameWidth="183" frameHeight="238"/>
+	<SubTexture name="purple0002" x="2" y="249" width="166" height="227" frameX="-6" frameY="-10" frameWidth="183" frameHeight="238"/>
+	<SubTexture name="purple0003" x="178" y="249" width="163" height="227" frameX="-6" frameY="-10" frameWidth="183" frameHeight="238"/>
+	<SubTexture name="purple0004" x="351" y="249" width="162" height="237" frameX="-8" frameY="0" frameWidth="183" frameHeight="238"/>
+	<SubTexture name="purple0005" x="523" y="249" width="169" height="228" frameX="0" frameY="-10" frameWidth="183" frameHeight="238"/>
+	<SubTexture name="purple hold end0000" x="702" y="249" width="50" height="64"/>
+	<SubTexture name="purple hold piece0000" x="762" y="249" width="50" height="44"/>
+	<SubTexture name="red0000" x="822" y="249" width="154" height="157"/>
+	<SubTexture name="red hold end0000" x="2" y="496" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="62" y="496" width="50" height="44"/>
+</TextureAtlas>
